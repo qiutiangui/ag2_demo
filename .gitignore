@@ -1,1 +1,10 @@
+# PyCharm/IDEA 配置
+.idea/
+# Python 缓存文件
+__pycache__/
+*.pyc
+# 环境变量文件（含密钥，必忽略）
 .env
+# 虚拟环境
+venv/
+env/
